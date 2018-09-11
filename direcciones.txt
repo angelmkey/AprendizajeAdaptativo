@@ -24,5 +24,9 @@ prendizajes.
 
     --------
 
+<<<<<<< HEAD
     Al definirse como modelo educativo centrado en el estudiante las Universidades TEcnològicas apuntan a una personalizaciòn del proceso de aprendizaje, pudiendo establecer mecanismo, tecnicas y cualquier otro invento que permita que los alumnos tengan protagonismo en su academia, logrando con ello un proceso dinamico donde el profesor deja de ser el sol del aula y todos los alumnos giren en torno a èl.
     
+=======
+podemos hablar de la evaluación??
+>>>>>>> 81120c7f59cc17b260930e96ffdfc71d63261a73
